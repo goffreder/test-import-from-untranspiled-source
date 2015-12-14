@@ -1,0 +1,159 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+name	/Users/alessandrocasazza13/Sites/elastic-form/package.json	/^  "name": "elastic-form",$/;"	function	line:2
+version	/Users/alessandrocasazza13/Sites/elastic-form/package.json	/^  "version": "0.1.0",$/;"	function	line:3
+description	/Users/alessandrocasazza13/Sites/elastic-form/package.json	/^  "description": "Creazione di form attraverso template JSON",$/;"	function	line:4
+main	/Users/alessandrocasazza13/Sites/elastic-form/package.json	/^  "main": "bundle.js",$/;"	function	line:5
+scripts	/Users/alessandrocasazza13/Sites/elastic-form/package.json	/^  "scripts": {$/;"	function	line:6
+test	/Users/alessandrocasazza13/Sites/elastic-form/package.json	/^    "test": "start"$/;"	function	line:7
+repository	/Users/alessandrocasazza13/Sites/elastic-form/package.json	/^  "repository": {$/;"	function	line:9
+type	/Users/alessandrocasazza13/Sites/elastic-form/package.json	/^    "type": "git",$/;"	function	line:10
+url	/Users/alessandrocasazza13/Sites/elastic-form/package.json	/^    "url": "ssh:\/\/alessandro.casazza@dev0.wyscout.com:29418\/~alessandro.casazza\/elastic-form.git"$/;"	function	line:11
+keywords	/Users/alessandrocasazza13/Sites/elastic-form/package.json	/^  "keywords": [$/;"	function	line:13
+author	/Users/alessandrocasazza13/Sites/elastic-form/package.json	/^  "author": "Alessandro Casazza, Emanuele Biancardi",$/;"	function	line:16
+license	/Users/alessandrocasazza13/Sites/elastic-form/package.json	/^  "license": "ISC"$/;"	function	line:17
+elastic-form	/Users/alessandrocasazza13/Sites/elastic-form/README.md	/^## elastic-form$/;"	function	line:1
+id	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^    "id": "checkoutPayment",$/;"	function	line:2
+name	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^    "name": "checkoutPayment",$/;"	function	line:3
+useZuoraLib	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^    "useZuoraLib": true,$/;"	function	line:4
+localSave	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^    "localSave": true,$/;"	function	line:5
+sendPath	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^    "sendPath": "https:\/\/apisandbox-api.zuora.com\/rest\/v1\/accounts",$/;"	function	line:6
+sendHeader	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^    "sendHeader": "api.sandbox@wyscout.com:4P1_$_1988",$/;"	function	line:7
+hasRows	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^    "hasRows": true,$/;"	function	line:8
+cryptingData	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^    "cryptingData": true,$/;"	function	line:9
+fields	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^    "fields": [$/;"	function	line:10
+row	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^            "row": [$/;"	function	line:12
+titleGroup	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "titleGroup": "User Account",$/;"	function	line:14
+name	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "name": "firstName",$/;"	function	line:15
+label	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "label": "First name",$/;"	function	line:16
+type	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "type": "text",$/;"	function	line:17
+placeholder	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "placeholder": "Enter your firstname",$/;"	function	line:18
+help	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "help": "Minimum 3",$/;"	function	line:19
+required	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "required": true,$/;"	function	line:20
+disabled	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "disabled": false,$/;"	function	line:21
+minLength	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "minLength": 3,$/;"	function	line:22
+hasFeedback	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "hasFeedback": true$/;"	function	line:23
+name	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "name": "lastName",$/;"	function	line:26
+label	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "label": "Last Name",$/;"	function	line:27
+type	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "type": "text",$/;"	function	line:28
+required	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "required": true,$/;"	function	line:29
+disabled	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "disabled": false,$/;"	function	line:30
+minLength	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "minLength": 3,$/;"	function	line:31
+hasFeedback	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "hasFeedback": true$/;"	function	line:32
+row	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^            "row": [$/;"	function	line:37
+name	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "name": "workEmail",$/;"	function	line:39
+label	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "label": "Email",$/;"	function	line:40
+type	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "type": "email",$/;"	function	line:41
+required	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "required": true,$/;"	function	line:42
+disabled	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "disabled": false,$/;"	function	line:43
+minLength	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "minLength": 5,$/;"	function	line:44
+addonBefore	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "addonBefore": "glyphicon-envelope",$/;"	function	line:45
+addonAfter	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "addonAfter": "",$/;"	function	line:46
+hasFeedback	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "hasFeedback": true,$/;"	function	line:47
+autoComplete	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "autoComplete": "off"$/;"	function	line:48
+name	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "name": "password",$/;"	function	line:51
+label	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "label": "Password",$/;"	function	line:52
+type	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "type": "password",$/;"	function	line:53
+help	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "help": "Must be at least 6 characters and 1 number",$/;"	function	line:54
+required	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "required": true,$/;"	function	line:55
+disabled	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "disabled": false,$/;"	function	line:56
+minLength	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "minLength": 6,$/;"	function	line:57
+hasFeedback	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "hasFeedback": true,$/;"	function	line:58
+autoComplete	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                    "autoComplete": "off"$/;"	function	line:59
+titleGroup	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "titleGroup": "Company Data",$/;"	function	line:64
+name	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "name": "vatNumber",$/;"	function	line:65
+label	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "label": "Vat Number",$/;"	function	line:66
+type	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "type": "vatNumber",$/;"	function	line:67
+placeholder	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "placeholder": "",$/;"	function	line:68
+apiUrlValidation	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "apiUrlValidation": "http:\/\/wyrest\/v1\/cart\/data\/checkvatvies?access_token=belinde",$/;"	function	line:69
+row	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "row": true,$/;"	function	line:70
+required	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "required": true,$/;"	function	line:71
+disabled	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "disabled": false,$/;"	function	line:72
+hasFeedback	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "hasFeedback": true,$/;"	function	line:73
+withSelect	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "withSelect": true,$/;"	function	line:74
+additionalFields	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "additionalFields": [$/;"	function	line:75
+name	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "name": "companyName",$/;"	function	line:77
+label	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "label": "Company Name",$/;"	function	line:78
+type	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "type": "text",$/;"	function	line:79
+required	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "required": true,$/;"	function	line:80
+disabled	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "disabled": false,$/;"	function	line:81
+minLength	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "minLength": 3,$/;"	function	line:82
+addonBefore	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "addonBefore": "glyphicon-flag",$/;"	function	line:83
+addonAfter	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "addonAfter": "",$/;"	function	line:84
+hasFeedback	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "hasFeedback": true,$/;"	function	line:85
+placeholder	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "placeholder": "Company name"$/;"	function	line:86
+name	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "name": "address",$/;"	function	line:89
+label	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "label": "Address",$/;"	function	line:90
+type	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "type": "text",$/;"	function	line:91
+required	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "required": true,$/;"	function	line:92
+disabled	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "disabled": false,$/;"	function	line:93
+minLength	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "minLength": 3,$/;"	function	line:94
+addonBefore	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "addonBefore": "glyphicon-flag",$/;"	function	line:95
+addonAfter	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "addonAfter": "",$/;"	function	line:96
+hasFeedback	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "hasFeedback": true,$/;"	function	line:97
+placeholder	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "placeholder": ""$/;"	function	line:98
+selectData	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "selectData": {$/;"	function	line:101
+name	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^              "name": "country",$/;"	function	line:102
+label	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^              "label": "Country",$/;"	function	line:103
+type	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^              "type": "select",$/;"	function	line:104
+placeholder	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^              "placeholder": "Choose your country",$/;"	function	line:105
+required	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^              "required": true,$/;"	function	line:106
+disabled	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^              "disabled": false,$/;"	function	line:107
+hasFeedback	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^              "hasFeedback": true,$/;"	function	line:108
+typeData	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^              "typeData": "countries"$/;"	function	line:109
+titleGroup	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "titleGroup": "Payment Data",$/;"	function	line:113
+name	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "name": "cardNumber",$/;"	function	line:114
+label	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "label": "Credit Card",$/;"	function	line:115
+type	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "type": "creditCard",$/;"	function	line:116
+required	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "required": true,$/;"	function	line:117
+row	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "row": true,$/;"	function	line:118
+disabled	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "disabled": false,$/;"	function	line:119
+minLength	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "minLength": 13,$/;"	function	line:120
+maxLength	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "maxLength": 19,$/;"	function	line:121
+addonBefore	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "addonBefore": "glyphicon-credit-card",$/;"	function	line:122
+addonAfter	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "addonAfter": "",$/;"	function	line:123
+hasFeedback	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "hasFeedback": true,$/;"	function	line:124
+creditCardFields	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "creditCardFields": [$/;"	function	line:125
+id	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "id": "expirationDate",$/;"	function	line:127
+name	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "name": "expiration",$/;"	function	line:128
+label	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "label": "Expiration",$/;"	function	line:129
+type	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "type": "date",$/;"	function	line:130
+required	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "required": true,$/;"	function	line:131
+disabled	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "disabled": false,$/;"	function	line:132
+addonBefore	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "addonBefore": "glyphicon-calendar",$/;"	function	line:133
+addonAfter	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "addonAfter": "",$/;"	function	line:134
+hasFeedback	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "hasFeedback": true,$/;"	function	line:135
+validateForCard	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "validateForCard": true,$/;"	function	line:136
+placeholder	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "placeholder": "MM\/YYYY",$/;"	function	line:137
+options	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "options": {$/;"	function	line:138
+format	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                      "format": "MM\/YYYY"$/;"	function	line:139
+name	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "name": "securityCode",$/;"	function	line:143
+label	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "label": "Security code",$/;"	function	line:144
+type	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "type": "number",$/;"	function	line:145
+required	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "required": true,$/;"	function	line:146
+disabled	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "disabled": false,$/;"	function	line:147
+minLength	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "minLength": 3,$/;"	function	line:148
+validateForCard	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "validateForCard": true,$/;"	function	line:149
+addonBefore	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "addonBefore": "",$/;"	function	line:150
+addonAfter	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "addonAfter": "",$/;"	function	line:151
+hasFeedback	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "hasFeedback": true,$/;"	function	line:152
+placeholder	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "placeholder": "CVV"$/;"	function	line:153
+name	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "name": "cardHolder",$/;"	function	line:156
+label	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "label": "Card holder",$/;"	function	line:157
+type	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "type": "text",$/;"	function	line:158
+required	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "required": true,$/;"	function	line:159
+disabled	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "disabled": false,$/;"	function	line:160
+minLength	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "minLength": 3,$/;"	function	line:161
+addonBefore	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "addonBefore": "glyphicon-user",$/;"	function	line:162
+addonAfter	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "addonAfter": "",$/;"	function	line:163
+hasFeedback	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "hasFeedback": true,$/;"	function	line:164
+placeholder	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^                  "placeholder": "Full name"$/;"	function	line:165
+name	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "name": "submitForm",$/;"	function	line:170
+label	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "label": "Submit",$/;"	function	line:171
+bsStyle	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "bsStyle": "primary",$/;"	function	line:172
+disabled	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "disabled": false,$/;"	function	line:173
+type	/Users/alessandrocasazza/Sites/elastic-form/app/utils/template.json	/^          "type": "submit"$/;"	function	line:174
